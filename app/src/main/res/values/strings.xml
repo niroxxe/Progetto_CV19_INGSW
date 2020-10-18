@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Progetto CV19 [INGSW]</string>
+    <string name="string_text" />
+    <string name="text" />
+    <string name="todo" />
+    <string name="preview_image">preview_image</string>
+    <string name="filtri_avanzati">Filtri avanzati</string>
+    <string name="location_name_text">text</string>
+    <string name="location_type_text">TextView</string>
+    <string name="review_number">(text)</string>
+    <string name="address_text">text</string>
+    <string name="indirizzo">Indirizzo</string>
+    <string name="via_pertini_45">Via Pertini, 45</string>
+    <string name="media_recensioni">Media recensioni</string>
+    <string name="esattamente">Esattamente</string>
+    <string name="almeno">Almeno</string>
+    <string name="tipo_di_posto">Tipo di posto</string>
+    <string name="prezzo">Prezzo</string>
+    <string name="minimo">Minimo</string>
+    <string name="_10">10 €</string>
+    <string name="massimo">Massimo</string>
+    <string name="_30">30 €</string>
+    <string name="mappa">Mappa</string>
+    <string name="applica">Applica</string>
+    <string-array name="location_types">
+        <item>Qualsiasi</item>
+        <item>Ristorante</item>
+        <item>Negozio</item>
+        <item>Museo</item>
+        <item>Stazione</item>
+        <item>Altro</item>
+    </string-array>
+    <string name="mapkey" translatable="false">AIzaSyAmz28GmKlSt9nSBT2fIA3jazQHSxv3Fe8</string>
+    <string name="location_description">TextView</string>
+</resources>
